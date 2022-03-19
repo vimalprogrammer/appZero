@@ -5,7 +5,7 @@
     </th>
     <th>
       Registration Screen
-      <img src="https://user-images.githubusercontent.com/62836567/159018136-82b62763-3e26-4e78-8cdb-20dc30bdfe20.jpg" width="750"  height="500"/>
+      <img src="https://user-images.githubusercontent.com/62836567/159018136-82b62763-3e26-4e78-8cdb-20dc30bdfe20.jpg" />
     </th>
      <th>
        Sign In Screen
